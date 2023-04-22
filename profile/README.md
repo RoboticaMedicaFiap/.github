@@ -2,7 +2,7 @@
 
 ## Sumario
 
-- [Docs](#protótipos)
+- [Docs](#docs)
 - [Quadros](#quadros)
 - [Repositórios](#repositórios)
 - [UI](#ui)

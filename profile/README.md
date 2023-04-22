@@ -16,16 +16,16 @@ Time de desenvolvimento do projeto de iniciação cientifica 2023.
 
 ## Quadros
 
-- Github - (https://github.com/orgs/RoboticaMedicaFiap/projects/2)
-- Trello - (https://trello.com/b/tUXwRMbC/robotica-medica)
+- [Github](https://github.com/orgs/RoboticaMedicaFiap/projects/2)
+- [Trello](https://trello.com/b/tUXwRMbC/robotica-medica)
 
-### Repositórios
+## Repositórios
 
 - [AI](https://github.com/RoboticaMedicaFiap/backendAi)
 - [BACK](https://github.com/RoboticaMedicaFiap/backend)
 - [FRONT](https://github.com/RoboticaMedicaFiap/frontend)
 
 
-### UI
+## UI
 
 - [Figma](https://www.figma.com/files/project/87765150/prototypes?fuid=745805913105976814)

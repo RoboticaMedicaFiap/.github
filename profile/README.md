@@ -1,18 +1,15 @@
 # FIAP - Robótica Medica
 
-Time de desenvolvimento do projeto de iniciação cientifica 2023.
+## Sumario
 
-## Table of Contents
-
-- [Protótipos](#protótipos)
-- [Protótipos - Docs](#protótipos-docs)
-- [Protótipos - User Interface](#ui)
+- [Docs](#protótipos)
+- [Quadros](#quadros)
 - [Repositórios](#repositórios)
 - [UI](#ui)
 
-## Protótipos
+## Docs
 
-[Miro](https://miro.com/welcomeonboard/T2dQeFhqaHZ2bGFvR3J3b2JmR1FVOWxtSzBucEtDZDFCWE5rZDRKNmpBTkpSV2lMOTdnaXhtWmFSTjY0R3ljN3wzNDU4NzY0NTIyNjYzMDg5NDEwfDI=?share_link_id=585608036267)
+- [Miro](https://miro.com/welcomeonboard/T2dQeFhqaHZ2bGFvR3J3b2JmR1FVOWxtSzBucEtDZDFCWE5rZDRKNmpBTkpSV2lMOTdnaXhtWmFSTjY0R3ljN3wzNDU4NzY0NTIyNjYzMDg5NDEwfDI=?share_link_id=585608036267)
 
 ## Quadros
 

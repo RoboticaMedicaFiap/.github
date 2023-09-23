@@ -18,9 +18,8 @@
 
 ## Repositórios
 
-- [AI](https://github.com/RoboticaMedicaFiap/backendAi)
-- [BACK](https://github.com/RoboticaMedicaFiap/backend)
-- [FRONT](https://github.com/RoboticaMedicaFiap/frontend)
+- [BACK](https://github.com/RoboticaMedicaFiap/microservice)
+- [FRONT](https://github.com/RoboticaMedicaFiap/app)
 
 
 ## UI
